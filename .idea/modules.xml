@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Android-TabView-master.iml" filepath="$PROJECT_DIR$/Android-TabView-master.iml" />
+      <module fileurl="file://E:\Android-TabView-master\TabView.iml" filepath="E:\Android-TabView-master\TabView.iml" />
+      <module fileurl="file://E:\Android-TabView-master\app\app.iml" filepath="E:\Android-TabView-master\app\app.iml" />
+      <module fileurl="file://E:\Android-TabView-master\tabviewlibrary\tabviewlibrary.iml" filepath="E:\Android-TabView-master\tabviewlibrary\tabviewlibrary.iml" />
+    </modules>
+  </component>
+</project>
